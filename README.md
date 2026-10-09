@@ -1,4 +1,4 @@
 # Lab 1: Intro to Behavioral TV Data
 
-- **Name:** Дарина Джура
+- **Name:** Daryna Dzhura
 - **Group:** КМ-41
